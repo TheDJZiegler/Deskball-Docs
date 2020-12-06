@@ -76,7 +76,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
       }
     `}
     render={data => {
-      const logoImg = require('./images/logo.svg');
+      const logoImg = require('../docsLogo.png');
 
       const twitter = require('./images/twitter.svg');
 
@@ -90,7 +90,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
         },
       } = data;
 
-      const finalLogoLink = logo.link !== '' ? logo.link : 'https://hasura.io/';
+      const finalLogoLink = logo.link !== '' ? logo.link : 'https://github.com/TheDJZiegler/deskball_mobile_app';
 
       return (
         <div className={'navBarWrapper'}>
@@ -99,14 +99,14 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
               <Link to={finalLogoLink} className={'navBarBrand'}>
                 <img
                   className={'img-responsive displayInline'}
-                  src={logo.image !== '' ? logo.image : logoImg}
+                  src={logoImg}
                   alt={'logo'}
                 />
               </Link>
-              <div
+              {/* <div
                 className={'headerTitle displayInline'}
                 dangerouslySetInnerHTML={{ __html: headerTitle }}
-              />
+              /> */}
             </div>
             {config.header.social ? (
               <ul

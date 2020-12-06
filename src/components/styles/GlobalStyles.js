@@ -76,7 +76,7 @@ export const baseStyles = injectGlobal`
     border-radius: 1px;
     margin: 0 auto;
     margin-top: 4px;
-    background-color: #001934;
+    background-color: #aabbaa;
   }
   .navBarToggle .iconBar:first-child {
     margin-top: 0px;
@@ -134,7 +134,7 @@ export const baseStyles = injectGlobal`
 
   .navbar-default .navbar-toggle:focus,
   .navbar-default .navbar-toggle:hover {
-    background-color: #001933;
+    background-color: #aaaaaa;
   }
 
   .headerWrapper {
@@ -257,7 +257,7 @@ export const baseStyles = injectGlobal`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    background-color: #f1f1f1;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -286,7 +286,7 @@ export const baseStyles = injectGlobal`
   }
 
   .navBarBrand img {
-    width: 120px;
+    width: 180px;
     margin-right: 6px;
     display: inline-block;
   }
@@ -450,7 +450,7 @@ export const baseStyles = injectGlobal`
   }
 
   .hideFrontLine .active > a {
-    background-color: #1ed3c6;
+    background-color: #DE0000;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -470,7 +470,7 @@ export const baseStyles = injectGlobal`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: #DE0000;
     text-decoration: none;
     display: flex;
     align-items: center;
