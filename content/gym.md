@@ -1,6 +1,6 @@
 ---
 title: "Gym Screen"
-metaTitle: "Try some various deskball-related challenges"
+metaTitle: "Deskball - Gym Screen"
 metaDescription: "Documentation for gym screen"
 ---
 

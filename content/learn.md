@@ -1,6 +1,6 @@
 ---
 title: "Learn Screen"
-metaTitle: "Learn the various rules and game modes"
+metaTitle: "Deskball - Learn Screen"
 metaDescription: "Documentation for learn screen"
 ---
 
