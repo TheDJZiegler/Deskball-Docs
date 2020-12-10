@@ -18,6 +18,10 @@ To begin, please follow the instructions linked below to install flutter.
 
 [Flutter Installation Instructions](https://flutter.dev/docs/get-started/install)
 
+To locate the files that we will mention in this document, please reference the following repository on Github:
+
+[Github Repository](https://github.com/TheDJZiegler/deskball_mobile_app)
+
 
 <!-- # Heading H1
 Heading 1 text
