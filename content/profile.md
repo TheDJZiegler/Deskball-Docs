@@ -4,12 +4,16 @@ metaTitle: "Application profile screen"
 metaDescription: "Documentation for application home screen"
 ---
 
-The home screen is supposed to act as the central location for Deskball content. An example screenshot is displayed below.
+The profile screen is exactly as it sounds. The profile of the user that is currently logged in. Most of the information 
+displayed in hard-coded, meaning that the ability to customize the page freely is extremely limited. As you will see in
+screenshot, stock images have been placed to represent a feed as well as the user's profile picture. 
+
 
 #### Files
-The files associated with this screen are:
+The files associated with the profile screen are:
 
-- [/lib/screens/main_screen.dart]
-- [/lib/screens/home.dart]
-- [/lib/models/post_model.dart]
-- [/lib/models/comment_model.dart]
+- [/lib/screens/profile.dart](https://github.com/TheDJZiegler/deskball_mobile_app/blob/master/lib/screens/profile.dart)
+- [/lib/screens/auth/complete_profile/edit_profile_screen.dart](https://github.com/TheDJZiegler/deskball_mobile_app/blob/master/lib/screens/auth/complete_profile/edit_profile_screen.dart)
+- [/lib/screens/auth/complete_profile/settings.dart](https://github.com/TheDJZiegler/deskball_mobile_app/blob/master/lib/screens/auth/complete_profile/settings.dart)
+
+You can see screenshots of them below:
