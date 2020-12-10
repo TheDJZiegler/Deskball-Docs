@@ -21,3 +21,5 @@ the simulation of the application. You can find the API code in the following fi
 - [/ios/Runner/AppDelegate.swift](https://github.com/TheDJZiegler/deskball_mobile_app/blob/master/ios/Runner/AppDelegate.swift)
 
 The first two files set up Google Maps in the Find screen for the android side. The third file sets up google maps for the ios side. If there are plans to add/renew the Google Maps API key, it will be done here.
+
+[Here is a current display of the Find Screen](\content\screenshots\findScreen.png?raw=true "Test title")
