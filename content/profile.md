@@ -17,3 +17,9 @@ The files associated with the profile screen are:
 - [/lib/screens/auth/complete_profile/settings.dart](https://github.com/TheDJZiegler/deskball_mobile_app/blob/master/lib/screens/auth/complete_profile/settings.dart)
 
 You can see screenshots of them below:
+
+[Screenshot of Profile screen](https://github.com/mirandaricky9/Deskball-Docs/blob/main/content/screenshots/profileScreen.png)
+
+[Screenshot of Edit Profile screen](https://github.com/mirandaricky9/Deskball-Docs/blob/main/content/screenshots/editProfileScreen.png)
+
+[Screenshot of Editing Profile details](https://github.com/mirandaricky9/Deskball-Docs/blob/main/content/screenshots/editProfileDetailsScreen.png)

@@ -22,4 +22,4 @@ the simulation of the application. You can find the API code in the following fi
 
 The first two files set up Google Maps in the Find screen for the android side. The third file sets up google maps for the ios side. If there are plans to add/renew the Google Maps API key, it will be done here.
 
-[Here is a current display of the Find Screen](\content\screenshots\findScreen.png?raw=true "Test title")
+[Here is a current display of the Find Screen.](https://github.com/mirandaricky9/Deskball-Docs/blob/main/content/screenshots/findScreen.png)
