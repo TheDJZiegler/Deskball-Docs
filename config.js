@@ -36,7 +36,9 @@ const config = {
       '/authorization',
       '/home',
       '/learn',
-      '/gym'
+      '/gym',
+      '/find',
+      '/profile'
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
